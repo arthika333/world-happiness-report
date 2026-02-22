@@ -26,10 +26,10 @@ A simple ridge ression model wih alpha=10. The chosen value resulted in improved
 
 ## Model Evaluation
 Performance was evaluated using the R² (coefficient of determination) metric.
-* Training R²: 0.73
-* Testing R²: 0.52
+* Training R²: 0.72
+* Testing R²: 0.57
   
-So the model explains 73% of the variance in training data and 52% of the variance in unseen future data.
+So the model explains 72% of the variance in training data and 57% of the variance in unseen future data.
 
 ## Model Predictions
 Using the trained Ridge Regression model, 2024 feature values were used to forecast 2025 Ladder Scores. The predictions were sorted to generate a projected top 10 ranking for 2025.
