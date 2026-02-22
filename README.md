@@ -40,7 +40,7 @@ Most of the predicted countries consistently stayed within the top 10 in previou
 
 <img width="843" height="604" alt="image" src="https://github.com/user-attachments/assets/5f4dd7b9-ae22-47a0-9826-1f35a5a5e60e" />
 
-Out of all the given countries, Singapore is the sole outlier, which has a huge jump in it's predicted rank from the previous year. 
+Out of all the given countries, Singapore is the sole outlier, which is predicted to have jumped 29 spots in it's ranking when comparing it to the previous year. 
 
 ## Resources
 Every source that has been used for this project is listed below:
