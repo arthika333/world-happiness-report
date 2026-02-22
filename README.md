@@ -38,6 +38,10 @@ Using the trained Ridge Regression model, 2024 feature values were used to forec
 
 Most of the predicted countries consistently stayed within the top 10 in previous years. This shows that the model is making realistic predictions.
 
+<img width="843" height="604" alt="image" src="https://github.com/user-attachments/assets/5f4dd7b9-ae22-47a0-9826-1f35a5a5e60e" />
+
+Out of all the given countries, Singapore is the sole outlier, which has a huge jump in it's predicted rank from the previous year. 
+
 ## Resources
 Every source that has been used for this project is listed below:
 * https://scikit-learn.org/
