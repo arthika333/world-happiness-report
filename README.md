@@ -19,10 +19,8 @@ The cleaned datasets were used to build interactive Tableau dashboards to explor
 * Top 10 country rankings
 * Ladder score trends
 * Relations between dataset parameters
+<img width="2999" height="1349" alt="Dashboard 6" src="https://github.com/user-attachments/assets/60517131-aedd-4fe5-9ad9-8aac282f4475" />
 
- <img width="1919" height="1087" alt="image" src="https://github.com/user-attachments/assets/86cc6c62-4d41-4296-b9aa-a8b605b602fe" />
-
- <img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/ba90884d-2336-4487-8807-777da3ddaedb" />
 
 ## Data Pre-processing
 Rows containing all null values were removed. Rows that had missing values were imputed using Simple Imputer and mean strategy. Data was scaled using MinMaxScaler and split based on years. 
@@ -41,8 +39,7 @@ So the model explains 72% of the variance in training data and 57% of the varian
 
 ## 2025 Predictions
 Using 2024 feature values, the trained model was used to forecast projected 2025 Ladder Scores.. The predictions were sorted to generate a projected top 10 ranking for 2025.
-
-<img width="1919" height="1093" alt="image" src="https://github.com/user-attachments/assets/eff57ac2-9f9f-4b50-bc12-3cd44c4b779c" />
+<img width="698" height="313" alt="image" src="https://github.com/user-attachments/assets/d41959ce-4287-4d21-9170-9c01eae7efdc" />
 
 Most of the predicted countries consistently stayed within the top 10 in previous years. This shows that the model is making realistic predictions.
 
@@ -66,4 +63,4 @@ Every source that has been used for this project is listed below:
 * https://www.worldhappiness.report/ed/2025/#appendices-and-data
 
 ## Interactive Dashboards:
-* https://public.tableau.com/app/profile/arthika.p2281/vizzes
+* https://public.tableau.com/app/profile/arthika.p2281/viz/happytableau/Dashboard6
