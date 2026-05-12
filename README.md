@@ -39,6 +39,7 @@ So the model explains 72% of the variance in training data and 57% of the varian
 
 ## 2025 Predictions
 Using 2024 feature values, the trained model was used to forecast projected 2025 Ladder Scores.. The predictions were sorted to generate a projected top 10 ranking for 2025.
+
 <img width="698" height="313" alt="image" src="https://github.com/user-attachments/assets/d41959ce-4287-4d21-9170-9c01eae7efdc" />
 
 Most of the predicted countries consistently stayed within the top 10 in previous years. This shows that the model is making realistic predictions.
